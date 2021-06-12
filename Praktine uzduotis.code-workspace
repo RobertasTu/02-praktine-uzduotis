@@ -1,16 +1,13 @@
 {
 	"folders": [
 		{
-			"path": "..\\01 paskaita"
+			"path": "..\\22praktine uzduotis"
 		},
 		{
-			"path": "..\\02 paskaita"
-		},
-		{
-			"path": "."
+			"path": "..\\Projektas"
 		}
 	],
 	"settings": {
-		"liveServer.settings.multiRootWorkspaceName": "02 praktine uzduotis"
+		"liveServer.settings.multiRootWorkspaceName": "Projektas"
 	}
 }
